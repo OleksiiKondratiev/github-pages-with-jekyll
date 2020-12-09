@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+::Heart::
 ⚠️ Do not merge yet! ⚠️
 
 This pull request looks great so far. ✨ You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on your OleksiiKondratiev-patch-1 branch and the pull request will update automatically.
